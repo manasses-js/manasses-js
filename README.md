@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @manasses-js
-- 👀 Tenho interesse em me tornar um programador front end, porém aberto a todo tipo de aprendizado.
-- 🌱 No momento estou focando meus estudos em, HTML, CSS, Javascript [ECMASCRIPT], NodeJS.
+- 👀 Tenho interesse em me tornar um programador Python, porém aberto a todo tipo de aprendizado.
+- 🌱 No momento estou focando meus estudos em Python.
 - 💞️ Estou em busca de melhorar constatemente meu portifólio pessoal.
 - 📫 Como me encontrar: manasses.junior@hotmail.com 
 
