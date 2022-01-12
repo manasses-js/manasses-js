@@ -1,4 +1,4 @@
-## Olá, eu sou o manasses-js
+## 👋 Olá, eu sou o manasses-js
 
 ## 🎓 Estudo, curso e tenho interesse em Desenvolvimento Web!
 
